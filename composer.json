@@ -1,0 +1,19 @@
+{
+    "name": "emoretti/easycontact",
+    "type": "library",
+    "description": "Complete and easy contact form core in PHP",
+    "keywords": ["contact","form","contact form","PHP"],
+    "homepage": "https://github.com/emoretticom/easycontact",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ettore Moretti",
+            "email": "info@ettoremoretti.com",
+            "homepage": "https://ettoremoretti.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
