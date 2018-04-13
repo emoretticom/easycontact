@@ -18,7 +18,7 @@
     },
     "autoload": {
        "psr-4": {
-         "emoretti\\easycontact": "src/core"
+         "emoretti\\easycontact\\": "src/core"
        }
      }
 }
